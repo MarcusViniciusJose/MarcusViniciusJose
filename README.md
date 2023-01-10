@@ -1,8 +1,9 @@
 <h1>Oi, Meu chapa</h1>
 <ul>
-  <li>🙌No momento estou em busca de uma oportunidade profissional.</li>
-  <li>😎Estudando desenvolvimento web.</li>
-  <li>💕Cursando Analise e Desenvolvimento de Sistemas</li>
+  <li>😎 Meu nome é Marcus, mas pode me chamar de Marquinho, tenho 19 anos;</li>
+  <li>🙌 No momento estou em busca de uma oportunidade profissional;</li>
+  <li>💻 Estudando desenvolvimento web;</li>
+  <li>💕 Cursando Analise e Desenvolvimento de Sistemas.</li>
 </ul>
 
 <h2>Linguagens Mais Usadas</h2>
