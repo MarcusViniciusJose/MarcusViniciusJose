@@ -1,4 +1,9 @@
-<h1>Oi, Meu chapa, Meu nome é Marcus e tenho 19 anos</h1>
+<h1>Oi, Meu chapa</h1>
+<ul>
+  <li>🙌No momento estou em busca de uma oportunidade profissional.</li>
+  <li>😎Estudando desenvolvimento web.</li>
+  <li>💕Cursando Analise e Desenvolvimento de Sistemas</li>
+</ul>
 
 <h2>Linguagens Mais Usadas</h2>
 <div align="center">
