@@ -7,10 +7,6 @@
 </ul>
 
 <h2>Linguagens Mais Usadas</h2>
-<div align="center">
-  <a href="https://github.com/MarcusViniciusJose">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusJose&layout=compact&langs_count=200&theme=dracula"/>
-</div>
 
 <h2>Minhas Linguagens</h2>
 <div style="display: inline_block"><br>
