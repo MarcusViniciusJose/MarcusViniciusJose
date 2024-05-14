@@ -2,7 +2,6 @@
 <ul>
   <li>😎 Meu nome é Marcus, mas pode me chamar de Marquinho, tenho 21 anos;</li>
   <li>🙌 Atualmente estou trabalhando como Técnico em Informática;</li>
-  <li>💻 Estudando desenvolvimento web;</li>
   <li>💕 Cursando Analise e Desenvolvimento de Sistemas.</li>
 </ul>
 
